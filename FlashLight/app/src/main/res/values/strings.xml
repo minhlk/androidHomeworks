@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+    <string name="white">White</string>
+    <string name="grey">Grey1</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+</resources>

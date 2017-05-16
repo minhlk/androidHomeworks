@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sat May 13 13:19:41 ICT 2017
+2.base=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.set=DEX
+3.base=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_/res/layout/place_badge_view.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_/res/layout/footer_view.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+5.base=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.set=ANDROID_RESOURCE
+6.base=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/minhlk/AndroidStudioProjects/Lab8_LocationLab/app/build/intermediates/res/resources-debug.ap_/res/drawable-nodpi-v4/stub.jpg
+0.set=ANDROID_RESOURCE

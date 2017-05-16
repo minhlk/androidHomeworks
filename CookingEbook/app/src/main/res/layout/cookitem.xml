@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tContent"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/tContent"
+        android:layout_toStartOf="@+id/tContent"
+        android:layout_weight="1"
+        android:text="title"
+        android:textAlignment="center"
+        android:textSize="20dp" />
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:id="@+id/tContent"
+        android:src="@drawable/picone"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/btnItem"
+        android:layout_toStartOf="@+id/btnItem" />
+
+    <Button
+        android:id="@+id/btnItem"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.53"
+        android:text="@string/click"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:background="@color/colorBlue"
+        android:layout_alignBottom="@+id/tContent"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="6dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@color/colorBlue"
+        />
+</RelativeLayout>

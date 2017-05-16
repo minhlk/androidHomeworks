@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Sat May 13 13:25:22 ICT 2017
+2.base=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+7.file=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_/res/layout/feed.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_/res/raw/tswift.txt
+5.base=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_/res/raw/rblack.txt
+4.set=DEX
+6.base=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_/res/raw/lgaga.txt
+3.set=ANDROID_RESOURCE
+1.base=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

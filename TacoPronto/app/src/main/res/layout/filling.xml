@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="15sp"
+    android:layout_marginRight="15sp">
+    <TableRow android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fillings"
+            android:layout_weight="1"
+            android:background="@drawable/black"
+            android:textAlignment="center"
+            android:padding="5sp"
+
+            />
+    </TableRow>
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+            android:orientation="vertical"
+           android:layout_weight="1"
+           >
+
+           <CheckBox
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:checked="false"
+               android:id="@+id/cb1"
+               android:text="Beef" />
+
+           <CheckBox
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:checked="false"
+               android:id="@+id/cb2"
+               android:text="Chicken" />
+
+           <CheckBox
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:checked="false"
+               android:id="@+id/cb3"
+               android:text="WhiteFish" />
+
+           <CheckBox
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:checked="false"
+               android:id="@+id/cb4"
+               android:text="Cheese" />
+
+           <CheckBox
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_weight="1"
+               android:checked="false"
+               android:id="@+id/cb5"
+               android:text="Sea food" />
+       </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            >
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="false"
+                android:id="@+id/cb6"
+                android:text="Rice" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="false"
+                android:id="@+id/cb7"
+                android:text="Beens" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="false"
+                android:id="@+id/cb8"
+                android:text="Pico de Gallo" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="false"
+                android:id="@+id/cb9"
+                android:text="Guacamole" />
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:checked="false"
+                android:id="@+id/cb10"
+                android:text="LBT" />
+        </LinearLayout>
+
+    </TableRow>
+</TableLayout>

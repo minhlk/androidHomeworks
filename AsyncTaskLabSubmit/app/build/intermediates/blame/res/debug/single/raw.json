@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/merged/debug/raw/rblack.txt",
+        "source": "/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/src/main/res/raw/rblack.txt"
+    },
+    {
+        "merged": "/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/merged/debug/raw/lgaga.txt",
+        "source": "/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/src/main/res/raw/lgaga.txt"
+    },
+    {
+        "merged": "/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/build/intermediates/res/merged/debug/raw/tswift.txt",
+        "source": "/home/minhlk/AndroidStudioProjects/AsyncTaskLabSubmit/app/src/main/res/raw/tswift.txt"
+    }
+]

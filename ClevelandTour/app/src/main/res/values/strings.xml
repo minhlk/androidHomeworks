@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClevelandTour</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title">Visiting Cleveland Landmarks</string>
+    <string name="btnMap">Map it</string>
+    <string name="btnInfo">More info</string>
+</resources>

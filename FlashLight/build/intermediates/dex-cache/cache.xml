@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/minhlk/AndroidStudioProjects/FlashLight/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/minhlk/AndroidStudioProjects/FlashLight/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3d4d0b58521e13a3923d4f678ed372c2fe0e50be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/minhlk/AndroidStudioProjects/FlashLight/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72c76342733d90aa782f71033da53bbaba190e45">
+        <dex dex="/home/minhlk/AndroidStudioProjects/FlashLight/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4fcf6b77c8a4a8e72b66cdc5f5ba31701fcbd0d/classes.dex" />
+    </item>
+
+</items>

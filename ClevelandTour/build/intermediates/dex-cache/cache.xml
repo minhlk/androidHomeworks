@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/dae3ec7cfff3a6d15d6d8f401102cc72aec3f65a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_2f83205b8bb0a3895d3b219c3490d7ec9148350e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/a5bb0eb4a02fb90d73aa1e9afec1be51d0e2cd2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_f7a90ec96ce2822d1b36b27879e27c44af1db098.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_01cde75ea966f9f3b939c2126493f68e544e7d55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/3274e226639493efe35cafb2153de8ecc43a7073/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_86cfa8f241853e5be8b00bdb61058a9415cb649a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_72a77273aed800f5d68765e1d9935a8047ae10b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/dd51c6b96a908210c9097d95060441bc48f20885/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_87cd1aaf6d8fe27fd544a17d2662c22af14aa2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/d4e3d889c97c3d44e8fb5e841d4a53fd6eb07490/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_7574a4fa63920d19cb9b8f474f0b2dc0f6324a46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/0569896001e49cd559b90b35f9e90802af4ae0c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_ac7b671f335c3b52ed7a3ba195f12bf57cf6b8df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/670d59678c1c40ae9a74fd00c2001fd0d6b371a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_db0df94aa63e17071604321b362fe72a22b7e14d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/de5ce967f234ef28fdae93fe7181f360fb904dc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_4772e134d35ee7e484964723917d40a97815ca39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/be2b7875b54084b136e2a7516af1bf976df72512/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_da96d72ccbbbb3f09475a51c4a0dc19cb80e1255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/8ad4f95887a54b2181190a8513970b7f76981a50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_c549d201aa79cee9e3ace1a03960b468ce54511f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/d87d1554eb0dec3d932d5fe0854e0c42302766c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_23499a1839a5a53d469f090ad76a506cd4f0790d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/3ea9d792d2313f184f5af5455beada07977de5ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_d57621fe10a1f682610d5b6813c4c572389a211f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/6de51d3048b2e251d50a20be2e9cecd0c673b71d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_fc5998930ea1889c5edca89897b3f9e2ddb3c177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/1791b0e6fd7522e6faf3efbb14c3feff32f6eb86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_e1b74e1636f413d8dd78f25090840da5b4d02b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/minhlk/.android/build-cache/7704cd56b6b023dec22f52edaf4e68d4c2e9352e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/minhlk/AndroidStudioProjects/ClevelandTour/app/build/intermediates/pre-dexed/debug/classes_e0f9ffd618b8c5ae145ae0450e619b758443583b.jar" />
+    </item>
+
+</items>
